@@ -1,0 +1,1 @@
+# apollo-next-ssr-error
