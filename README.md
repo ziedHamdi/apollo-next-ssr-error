@@ -1,9 +1,10 @@
-# Apollo Server and Client Example
+# Apollo Server and Client Example Modified
 
->This project was created with 
+>**This project was created with the command** 
 >>yarn create next-app --example api-routes-apollo-server-and-client api-routes-apollo-server-and-client-app
 >
->It was modified to demonstrate that when compiled, the resolver is not called on page refresh
+> It was modified to demonstrate that when compiled, the resolver is not called on page refresh
+> 
 > Modified files are 
 >- ./apollo/resolvers 
 >- ./pages/index.js 
