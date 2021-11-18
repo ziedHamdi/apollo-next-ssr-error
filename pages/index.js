@@ -20,11 +20,7 @@ const Index = () => {
 
   return (
     <div>
-      You're signed in as {viewer.name} and you're {viewer.status} goto{' '}
-      <Link href="/about">
-        <a>static</a>
-      </Link>{' '}
-      page.
+      You're signed in as {viewer.name} time in millis is : {viewer.status}
     </div>
   )
 }
